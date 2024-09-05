@@ -106,6 +106,6 @@ router.post('/upload-debug', (req, res) => {
    });
 });
 
-app.use('/.netlify/functions/api', router);
+app.use('/api/v1', router);
 module.exports.handler = serverless(app);
 module.exports = app;
