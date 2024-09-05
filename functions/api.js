@@ -106,6 +106,6 @@ router.post('/upload-debug', (req, res) => {
    });
 });
 
-app.use('/api/v1', router);
+app.use('/v1/api', router);
 module.exports.handler = serverless(app);
 module.exports = app;
