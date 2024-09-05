@@ -62,8 +62,8 @@ router.post('/upload', (req, res) => {
       }
       cloudinary.config({
          cloud_name: 'tunakite03',
-         api_key: process.env.CLOUDINARY.API_KEY,
-         api_secret: process.env.CLOUDINARY.SECRET_KEY,
+         api_key: process.env.CLOUDINARY_API_KEY,
+         api_secret: process.env.CLOUDINARY_SECRET_KEY,
       });
 
       const folderName = 'shoes';
