@@ -6,6 +6,7 @@ const path = require('path');
 const cloudinary = require('cloudinary').v2;
 const multer = require('multer');
 const upload = multer({ dest: 'dist/uploads/' }).single('file');
+require('dotenv').config();
 
 app.use(express.json());
 
@@ -61,8 +62,8 @@ router.post('/upload', (req, res) => {
       }
       cloudinary.config({
          cloud_name: 'tunakite03',
-         api_key: '689958954267986',
-         api_secret: '8drEli49-Cv-hpM7ckLDevVl5ow',
+         api_key: process.env.CLOUDINARY.API_KEY,
+         api_secret: process.env.CLOUDINARY.SECRET_KEY,
       });
 
       const folderName = 'shoes';
@@ -107,3 +108,4 @@ router.post('/upload-debug', (req, res) => {
 
 app.use('/.netlify/functions/api', router);
 module.exports.handler = serverless(app);
+module.exports = app;
