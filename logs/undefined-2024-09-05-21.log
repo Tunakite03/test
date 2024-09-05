@@ -1,0 +1,891 @@
+{
+  level: 'warn',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '7aecc0a9-5a0c-4090-8b16-ca7795de11e1',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------507461053282378630140768',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 404 },
+        responseTime: 3
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:14:26.654Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:14:26.657Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'db096ab7-09a4-439f-8643-0713330b69b6',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------766041185138237623566177',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 404 },
+        responseTime: 1
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:18:35.792Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:18:35.794Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'e402f7c6-88d2-40f0-9e85-d9ca3cc7095e',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------556338974872084325004563',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:19:31.509Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:19:31.511Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'bea85a51-786b-4c28-bf83-e9ba63268dcd',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------414790235607538430300656',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:20:47.294Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:20:47.295Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'b89873c4-a1ad-443c-91d8-586f6dae1425',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------389794170841871718782505',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:22:08.343Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:22:08.345Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '559beae6-7f10-444a-a318-899b9e14e851',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------976307496558857885222357',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 1
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:22:37.376Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:22:37.378Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'cbe20508-f60d-4b20-baef-84ff8c433f3b',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------427887798529110309934927',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:23:09.367Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:23:09.369Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '292d843c-c8ef-4f07-b416-b23844d26a14',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------063711565488191876373527',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:24:04.708Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:24:04.709Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '58f4af82-c405-4c06-bdcf-7e58a07f3120',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------015091205836015883296995',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:24:31.710Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:24:31.712Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'f83b0858-d12d-49e6-a004-89381da85596',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------974654479366141312823406',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 1
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:25:43.035Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:25:43.037Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '713750e2-8633-4713-8515-a744d0fd8380',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------117149786883684045393124',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 1
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:25:59.813Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:25:59.815Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'a76c3579-032e-4dc3-9a65-e6b464c18617',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------697809239766236089478085',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:26:36.534Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:26:36.536Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'b318382a-e17d-48d8-9ae1-e156a298396a',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------003449066816287734124697',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:27:43.819Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:27:43.821Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'e5885231-c22d-4fc3-9daf-c754a6236f78',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------132473659103800340834890',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 3
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:28:00.377Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:28:00.380Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '523295aa-d946-41a0-ae03-5234f1d9e565',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------545896789612936111075684',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 2
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:28:24.867Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:28:24.869Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '989b4233-d02f-4fa8-a19e-b76b43e8906f',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------458634237534219065271135',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 3
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:32:45.277Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:32:45.279Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '5233d746-de3d-490d-ab48-e8955dbbcc08',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------799054969270826603636454',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 4
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:36:57.557Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:36:57.559Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'eecaeff1-57f7-41e6-86f5-21782b7de990',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------462862094901455815000883',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 3
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:37:11.135Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:37:11.137Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'a1c8e0c3-055c-4466-a073-4737d0c31e90',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------266254418427820874395839',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 500 },
+        responseTime: 5
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:42:01.006Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:42:01.007Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'b6631c3c-fb7a-468e-b541-7b172bd4d6cc',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------958262178762393917502916',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 4
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:42:46.196Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:42:46.197Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '6affbc69-6e75-4836-ab72-c8b54363ac8d',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------550620785704768878447408',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 4
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:43:25.193Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:43:25.194Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '137df45a-bc42-49b6-b27f-1ffc074b1524',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------652781755269731460132295',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 3
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:43:40.196Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:43:40.198Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '734ca701-63c8-460b-8af4-442bfeca4136',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------379388191614042145004579',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 4
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:44:50.427Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:44:50.428Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '152fe8a0-d523-4338-a6f6-57f552d263ed',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------279063602920426584063742',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 5
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:46:47.431Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:46:47.432Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '3cab4c80-246f-4583-8c90-4c46f0821b58',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------139212637017628748273041',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 4
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:47:16.336Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:47:16.337Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': 'edd57aaa-d3f5-473c-822d-8bee111e8c34',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------272642735312896629131594',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 3348
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:54:00.047Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:54:00.049Z'
+  }
+}
+{
+  level: 'info',
+  message: 'HTTP POST /v1/api/upload',
+  metadata: {
+    metadata: {
+      meta: {
+        req: {
+          url: '/v1/api/upload',
+          headers: {
+            'user-agent': 'PostmanRuntime/7.41.2',
+            accept: '*/*',
+            'postman-token': '97a9e7df-085b-410e-a8c8-76f83801d9a1',
+            host: 'localhost:5000',
+            'accept-encoding': 'gzip, deflate, br',
+            connection: 'keep-alive',
+            'content-type': 'multipart/form-data; boundary=--------------------------467042254274277715763641',
+            'content-length': '72979'
+          },
+          method: 'POST',
+          httpVersion: '1.1',
+          originalUrl: '/v1/api/upload',
+          query: {}
+        },
+        res: { statusCode: 200 },
+        responseTime: 3000
+      },
+      label: 'undefined',
+      timestamp: '2024-09-05T14:54:48.520Z'
+    },
+    label: 'undefined',
+    timestamp: '2024-09-05T14:54:48.522Z'
+  }
+}
